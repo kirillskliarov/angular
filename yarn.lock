@@ -15210,9 +15210,9 @@ sass@1.69.5:
     immutable "^4.0.0"
     source-map-js ">=0.6.2 <2.0.0"
 
-"sauce-connect@https://saucelabs.com/downloads/sc-4.9.1-linux.tar.gz":
+"sauce-connect@file:../saucelabs/sc-4.9.2-linux.tar.gz":
   version "0.0.0"
-  resolved "https://saucelabs.com/downloads/sc-4.9.1-linux.tar.gz#9310bc860f7870a1f872b11c4dc6073a1ad34e5e"
+  resolved "file:../saucelabs/sc-4.9.2-linux.tar.gz#5589571bdc186f3f1b05fe6ce68529501a42fb43"
 
 saucelabs@7.4.0, saucelabs@^1.5.0, saucelabs@^4.6.3:
   version "7.4.0"
